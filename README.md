@@ -1,2 +1,2 @@
-# PROJECT-paper
-project paper
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
